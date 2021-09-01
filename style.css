@@ -1,0 +1,2 @@
+*{box-sizing: border-box;}
+textarea:focus,input:focus{border: 2px solid rgb(42, 143, 211);}
